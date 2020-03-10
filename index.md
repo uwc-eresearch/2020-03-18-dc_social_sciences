@@ -10,8 +10,8 @@ humandate: "19-20 March, 2020"    # human-readable dates for the workshop (e.g.,
 humantime: "9am - 4pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-03-19      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-03-20        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Oghenere Salubi, Peter van Heusden"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Juan Steyn"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Oghenere Salubi, Amieroh Abrahams, Peter van Heusden"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["To Be Announced"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["eresearch@uwc.ac.za"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -118,7 +118,7 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>). If you are struggling with software installation, assistance will be available between 2pm and 4pm on the 18th of March at the Max Theiler seminar room in SANBI on the 5th floor of the Life Sciences Building.
 </p>
 
 {% comment %}
@@ -145,6 +145,10 @@ special instructions.
   attempt to provide them.
 </p>
 
+
+<p id="registration">
+<strong>Registration:</strong> Please complete this <a href="https://docs.google.com/forms/d/e/1FAIpQLSfUTOSi-HE-k13USmSQT3ZNt7HNf-_rMs1ZAxXzA0sbYjj75A/viewform">Registration form</a>. Limited space is available. Places will be allocated on a first come, first served principle. 
+</p>
 {% comment %}
 CONTACT EMAIL ADDRESS
 
